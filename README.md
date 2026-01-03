@@ -22,17 +22,19 @@ To provide a clean, intuitive, and responsive platform that highlights my expert
 
 ## Project Structure
 
+The project structure is organized as follows:
+
 portfolio-website/
 │
-├── index.html # Single-page application entry point
-├── styles.css # Styles and responsive layout
-├── Assets/ # Visual assets (images, icons)
+├── index.html # Main entry point of the website
+├── styles.css # Global styles and responsive layout
+├── Assets/ # Images, icons, and other static assets
 ├── Skills/ # Skill-related content and visuals
-├── chatbot/ # Chatbot UI and logic for visitor engagement
-├── my_profile.md # Markdown profile content for easy updates
-├── robots.txt # SEO crawl instructions
-├── sitemap.xml # SEO sitemap for indexing
-└── README.md # Project overview and documentation
+├── chatbot/ # Chatbot UI components and logic
+├── my_profile.md # Profile content in markdown format
+├── robots.txt # Instructions for search engine crawlers
+├── sitemap.xml # Sitemap to help search engines index the site
+└── README.md # Project documentation
 
 
 ## How to Use
